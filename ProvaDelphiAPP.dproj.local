@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/01/25 15:46:36.000.321,=C:\Users\Danubio Ferrari\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/01/25 15:52:33.000.434,C:\Users\Danubio Ferrari\Documents\Embarcadero\Studio\Projects\ProvaDelphi\unPrincipal.dfm=C:\Users\Danubio Ferrari\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021/01/25 15:52:33.000.434,C:\Users\Danubio Ferrari\Documents\Embarcadero\Studio\Projects\ProvaDelphi\unPrincipal.pas=C:\Users\Danubio Ferrari\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/01/25 15:52:47.000.442,C:\Users\Danubio Ferrari\Documents\Embarcadero\Studio\Projects\ProvaDelphi\ProvaDelphiAPP.dproj=C:\Users\Danubio Ferrari\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2021/01/27 00:24:44.000.623,=C:\Users\Danubio Ferrari\Documents\Embarcadero\Studio\Projects\ProvaDelphi\Unit1.pas</Transaction>
+    <Transaction>2021/01/27 00:26:40.000.033,C:\Users\Danubio Ferrari\Documents\Embarcadero\Studio\Projects\ProvaDelphi\Unit1.pas=C:\Users\Danubio Ferrari\Documents\Embarcadero\Studio\Projects\ProvaDelphi\ufTarefa1.pas</Transaction>
+    <Transaction>2021/01/27 00:26:40.000.033,C:\Users\Danubio Ferrari\Documents\Embarcadero\Studio\Projects\ProvaDelphi\Unit1.dfm=C:\Users\Danubio Ferrari\Documents\Embarcadero\Studio\Projects\ProvaDelphi\ufTarefa1.dfm</Transaction>
+    <Transaction>2021/01/27 12:11:41.052,=C:\Users\Danubio Ferrari\Documents\Embarcadero\Studio\Projects\ProvaDelphi\ufTarefa2.pas</Transaction>
+    <Transaction>2021/01/27 16:15:11.987,=C:\Users\Danubio Ferrari\Documents\Embarcadero\Studio\Projects\ProvaDelphi\Unit1.pas</Transaction>
+    <Transaction>2021/01/27 16:18:24.629,C:\Users\Danubio Ferrari\Documents\Embarcadero\Studio\Projects\ProvaDelphi\uThread1.pas=C:\Users\Danubio Ferrari\Documents\Embarcadero\Studio\Projects\ProvaDelphi\Unit1.pas</Transaction>
+    <Transaction>2021/01/27 16:49:39.085,=C:\Users\Danubio Ferrari\Documents\Embarcadero\Studio\Projects\ProvaDelphi\Unit1.pas</Transaction>
+    <Transaction>2021/01/27 16:50:54.693,C:\Users\Danubio Ferrari\Documents\Embarcadero\Studio\Projects\ProvaDelphi\uThread2.pas=C:\Users\Danubio Ferrari\Documents\Embarcadero\Studio\Projects\ProvaDelphi\Unit1.pas</Transaction>
+  </Transactions>  <ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="unPrincipal.pas"/>
+    <File Path="unPrincipal.dfm"/>
+    <File Path="ufTarefa1.pas"/>
+    <File Path="ufTarefa1.dfm"/>
+    <File Path="ufTarefa2.pas"/>
+    <File Path="ufTarefa2.dfm"/>
+    <File Path="uThread1.pas"/>
+    <File Path="uThread2.pas"/>
+  </ProjectSortOrder>
+</BorlandProject>

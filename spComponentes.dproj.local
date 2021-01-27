@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/01/26 18:00:33.000.898,=rtl.dcp</Transaction>
+    <Transaction>2021/01/26 18:02:00.138,=rtl.dcp</Transaction>
+    <Transaction>2021/01/26 18:03:13.858,C:\Users\Danubio Ferrari\Documents\Embarcadero\Studio\Projects\ProvaDelphi\spComponentes.dproj=C:\Users\Danubio Ferrari\Documents\Embarcadero\Studio\Projects\Package1.dproj</Transaction>
+    <Transaction>2021/01/26 18:48:58.099,=C:\Users\Danubio Ferrari\Documents\Embarcadero\Studio\Projects\ProvaDelphi\uspQuery.pas</Transaction>
+    <Transaction>2021/01/26 18:48:58.125,=dbrtl.dcp</Transaction>
+    <Transaction>2021/01/26 18:48:58.133,=FireDAC.dcp</Transaction>
+    <Transaction>2021/01/26 18:48:58.139,=FireDACSqliteDriver.dcp</Transaction>
+    <Transaction>2021/01/26 18:48:58.146,=FireDACCommonDriver.dcp</Transaction>
+    <Transaction>2021/01/26 18:48:58.151,=FireDACCommon.dcp</Transaction>
+    <Transaction>2021/01/26 18:48:58.154,=xmlrtl.dcp</Transaction>
+  </Transactions>
+</BorlandProject>
